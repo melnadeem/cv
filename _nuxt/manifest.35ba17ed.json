@@ -1,0 +1,10 @@
+{
+  "name": "motaz_elnadeem_web_app",
+  "short_name": "motaz_elnadeem_web_app",
+  "description": "",
+  "icons": [],
+  "start_url": "/cv/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
